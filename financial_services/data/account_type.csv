@@ -1,0 +1,6 @@
+account_type_id,acc_type_name
+1,credit-card
+2,debit-checking
+3,debit-saving
+4,loan-personal
+5,loan-auto
